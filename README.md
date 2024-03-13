@@ -1,2 +1,3 @@
-# hookWebview
-hook webview  hook wkwebview
+专门用来拦截webview和wkwebview请求并
+webview可以直接执行注册协议
+WKWbview则需要额外执行似有函数 参考viewcontroller中的代码
